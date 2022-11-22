@@ -1,0 +1,34 @@
+{
+    "cartas": [
+        {
+            "encabezado": {
+                "fecha": "22/11/2022",
+                "ciudad": "Medell\u00edn"
+            },
+            "cuerpo": {
+                "saludo": "Buenas tardes equipo",
+                "motivo": "renuncia"
+            }
+        },
+        {
+            "encabezado": {
+                "fecha": "22/20/2050",
+                "ciudad": "medellin"
+            },
+            "cuerpo": {
+                "saludo": "hola que mas ps",
+                "motivo": "despedida"
+            }
+        },
+        {
+            "encabezado": {
+                "fecha": "255/55/522",
+                "ciudad": "bogota"
+            },
+            "cuerpo": {
+                "saludo": "junta de accion comuinal",
+                "motivo": "comida de lechona"
+            }
+        }
+    ]
+}
